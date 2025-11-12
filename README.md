@@ -1,1 +1,1 @@
-hello! this is some of my java code. 
+hello! im currently learning java and this is some of my java code. 
